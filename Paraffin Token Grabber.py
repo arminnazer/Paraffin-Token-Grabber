@@ -13,7 +13,7 @@ from threading import Thread
 from time import sleep
 from sys import argv
 
-webhook_url = ""
+webhook_url = armin
 
 languages = {
 	'da'    : 'Danish, Denmark',
